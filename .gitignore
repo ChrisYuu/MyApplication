@@ -5,5 +5,5 @@ build.gradle
 MyApplication.iml
 
 .DS_Store
-/build
+/build/
 /captures
